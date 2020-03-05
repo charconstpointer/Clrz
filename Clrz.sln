@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clrz.ConsoleApp", "Clrz.ConsoleApp\Clrz.ConsoleApp.csproj", "{FD308E8F-BE3D-4E11-A266-90016D2AB797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD308E8F-BE3D-4E11-A266-90016D2AB797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD308E8F-BE3D-4E11-A266-90016D2AB797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD308E8F-BE3D-4E11-A266-90016D2AB797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD308E8F-BE3D-4E11-A266-90016D2AB797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
