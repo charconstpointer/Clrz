@@ -1,3 +1,14 @@
 bin/
 obj/
 /packages/
+/.idea/.idea.Clrz/.idea/.gitignore
+/.idea/.idea.Clrz/.idea/.idea.Clrz.iml
+/Clrz.sln.DotSettings
+/.idea/.idea.Clrz/.idea/contentModel.xml
+/.idea/.idea.Clrz/.idea/encodings.xml
+/.idea/.idea.Clrz/.idea/indexLayout.xml
+/.idea/.idea.Clrz/.idea/misc.xml
+/.idea/.idea.Clrz/.idea/modules.xml
+/.idea/.idea.Clrz/.idea/projectSettingsUpdater.xml
+/.idea/.idea.Clrz/riderModule.iml
+/.idea/.idea.Clrz/.idea/vcs.xml
