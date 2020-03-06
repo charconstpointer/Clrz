@@ -9,7 +9,7 @@ namespace Clrz.ConsoleApp
 {
     internal class ConfigurationManager : IConfigurationManager
     {
-        private readonly IEnumerable<string> _allowedFolders = new[] {"noise","color","resolution"};
+        private readonly IEnumerable<string> _allowedFolders = new[] {"waifu","color","resolution", "dream"};
 
         public async Task<AppConfig> GetConfiguration()
         {
